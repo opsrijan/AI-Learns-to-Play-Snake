@@ -7,8 +7,8 @@ Run this command on your terminal:
 pip install torch pygame matplotlib numpy
 
 Key files: 
-game.py (game engine)
-agent.py (RL agent)
-model.py (neural network model)
-humangame.py (to have fun yourselves)
+game.py (game engine),
+agent.py (RL agent),
+model.py (neural network model),
+humangame.py (to have fun yourselves),
 helper.py (to visualize training)
